@@ -26,7 +26,7 @@ Complete natural language based project.
     parser = Parser("filePath/fileName")
     
     result = parser.get_json()
-    
+<img src="https://github.com/deepakdhull80/ResumeParser/blob/main/output.png">    
 
 ## Authors
 
